@@ -5,6 +5,7 @@ avatar: /57594608.jpg
 email: 1461206118@qq.com
 location: Peking University SZ
 skin: daylight
+subscribe: False
 
 plugins:
   - jekyll-seo-tag
