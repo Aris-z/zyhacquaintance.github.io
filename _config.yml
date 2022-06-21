@@ -32,13 +32,12 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: Arishary624
   card: summary
 logo: logo.png
 social:
-  name: Shangzhi Huang
+  name: Yihan Zhang
   links:
     - https://twitter.com/Arishary624
     - https://github.com/zyhacquaintance
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
