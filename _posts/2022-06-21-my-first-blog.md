@@ -1,4 +1,6 @@
-tags: open  
+---  
+categories: misc    
+---  
   
 # 这是一个标题  
 ***  
