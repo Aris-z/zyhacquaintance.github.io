@@ -25,16 +25,13 @@ paginate: 10
 
 # Jekyll
 # ======
-exclude:
-  - scripts/
-  - README.md
-  - jekyll-theme-hamilton.gemspec
+#exclude:
+#  - scripts/
+#  - README.md
+#  - jekyll-theme-hamilton.gemspec
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: Arishary624
-  card: summary
 logo: logo.png
 social:
   name: Yihan Zhang
