@@ -3,6 +3,8 @@ description: This is a blog...
 author: Yihan Zhang
 avatar: /57594608.jpg
 email: 1461206118@qq.com
+location: Peking University SZ
+skin: midnight
 
 plugins:
   - jekyll-seo-tag
