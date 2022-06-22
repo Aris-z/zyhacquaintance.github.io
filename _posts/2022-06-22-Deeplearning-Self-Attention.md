@@ -11,4 +11,4 @@ categories: Deep_Learning
 
 下面是插入图片的测试：  
 
-![pic:test](screenshot.png)
+![pic:test](../screenshot.png)
