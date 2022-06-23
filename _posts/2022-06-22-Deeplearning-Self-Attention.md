@@ -34,4 +34,4 @@ categories: Deep_Learning
 下面是插入图片的测试：  
 方法：使用github内的相对路径，例如：'../screenshot.png',需要先上传图片。
 
-![pic:test](../screenshot.png)
+![pic:test](https://github.com/zyhacquaintance/zyhacquaintance.github.io/blob/main/screenshot.png?raw=true)
