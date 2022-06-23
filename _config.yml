@@ -6,6 +6,9 @@ email: 1461206118@qq.com
 location: Peking University SZ
 skin: sunrise
 subscribe: False
+markdown: kramdown  
+
+
 
 plugins:
   - jekyll-seo-tag
