@@ -92,7 +92,8 @@ categories: SummerVacation2022
 ![pic:protein:3th](https://github.com/zyhacquaintance/zyhacquaintance.github.io/blob/main/images/2022-06-22/pic_protein_3.jpg?raw=true)
 
 
-
+#### 蛋白质的四级结构  
+具有两条或者是两条以上多肽链的寡聚或多聚蛋白质才会有四级结构，组成寡聚蛋白质或多聚蛋白质的每一个亚基都有自己的三级结构。
 
 (源自：<https://zhuanlan.zhihu.com/p/432300831>, <https://zhuanlan.zhihu.com/p/451261927>)
 
@@ -104,12 +105,14 @@ categories: SummerVacation2022
 
 
 ## 蛋白质相关数据的计算  
-
 ### 二面角  
 
 ### 键长&键角  
 
-
+上述涉及代码实践，此处暂时先搁置。。。
 
 ## 常用工具的学习
+[PDB文件格式说明](https://jerkwin.github.io/2015/06/05/PDB%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F%E8%AF%B4%E6%98%8E/)  
+  
+PDB(Protein Data Bank)是一种标准文件格式，其中包含原子的坐标信息
 
