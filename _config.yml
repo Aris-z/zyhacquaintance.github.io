@@ -39,6 +39,6 @@ logo: logo.png
 social:
   name: Yihan Zhang
   links:
-    - https://twitter.com/Arishary624
+#   - https://twitter.com/Arishary624
     - https://github.com/zyhacquaintance
 lang: en
